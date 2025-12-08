@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me :
 
-- :telescope: I'm a Full Stack Web Developer.
+- :telescope: I'm a Software Developer, trained in Multiplatform development and Full Stack Web development.
 - :seedling: Exploring for new oportunities and challenges.
 - :zap: Fun fact: I've been motorsport journalist for 12 years
 - :mailbox:How to reach me: [![Static Badge](https://img.shields.io/badge/-Sergio%20Lillo-blue%3Fstyle%3Dflat%26logo%3DLinkedin%26logoColor%3Dwhite?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flillosergio%2F)](https://www.linkedin.com/in/lillosergio/)
